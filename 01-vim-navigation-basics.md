@@ -1,5 +1,3 @@
-# Vim 'navigation' basics
-
 Learning Vim navigation can be a valuable skill for programmers, writers, and anyone who frequently works with text. It offers a unique approach to editing and navigating text that can significantly improve your productivity and efficiency.
 
 After learning just the basics of Vim navigation it will allow you to navigate, edit and perform commands with unparalleled speed, effortlessly moving through code or text.
@@ -21,7 +19,8 @@ Alright to get started you can either install vim in your operating system or yo
 
 > Installation the Vim plugin 
 
-https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/installing-vim-extension.webm
+https://github.com/ShUbHaM13M/vim-navigation-basics/raw/master/resources/installing-vim-extension.webm 
+
 
 Opening a new file now you will notice the cursor is changed
 And if you look at the status bar in the bottom you will notice **-- Normal --** indicating that you are currently in the normal mode
@@ -30,11 +29,11 @@ It allows you to navigate the text, copy/cut/paste characters, words and lines, 
 
 > Normal mode cursor
 
-![Vim Normal cursor](https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/vim-normal-cursor.webp)
+![Normal mode cursor in Vim](https://raw.githubusercontent.com/ShUbHaM13M/vim-navigation-basics/master/resources/vim-normal-cursor.webp)
 
-> Statusbar in Vs code indicating the current mode
+> Status bar in Vs code indicating the current mode
 
-![Vim Normal mode](https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/vim-normal-mode.webp)
+![Status bar indicating the current mode of Vim](https://raw.githubusercontent.com/ShUbHaM13M/vim-navigation-basics/master/resources/vim-normal-mode.webp)
 
 ---
 
@@ -52,11 +51,13 @@ These key presses can be combined with numbers so
 - <kbd>5j</kbd> will move the cursor 5 lines down.
 - <kbd>13l</kbd> will move the cursor 13 characters to the left.
 
-Navigating around the file using these keys might feel weird at first, but once you get a hang of it you will be able to navigate much quicker.
+Navigating around the file using these keys might feel weird at first, but once you get a hang of it you will be able to navigate much quicker. 
+ 
 
 > Navigating in Vscode using the vim key-bindings 
-
-https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/navigating-editing-file-with-vim.webm
+ 
+https://github.com/ShUbHaM13M/vim-navigation-basics/raw/master/resources/navigating-editing-file-with-vim.webm 
+ 
 
 #### Some other key bindings which makes navigating easier.
 
