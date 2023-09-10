@@ -19,14 +19,22 @@ You will be able to navigate and edit without constantly moving your hands away 
 
 Alright to get started you can either install vim in your operating system or you can just use an extension in Vs code which could be a good starting point and also you won't have to worry about how to exit Vim since you can just close Vs code directly.
 
-> TODO: Video of installation
+> Installation the Vim plugin 
+
+https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/installing-vim-extension.webm
 
 Opening a new file now you will notice the cursor is changed
 And if you look at the status bar in the bottom you will notice **-- Normal --** indicating that you are currently in the normal mode
 it is the default mode of Vim.
 It allows you to navigate the text, copy/cut/paste characters, words and lines, but also roll-back actions, and so on.
 
-> TODO: screenshot of cursor and status bar
+> Normal mode cursor
+
+![Vim Normal cursor](https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/vim-normal-cursor.webp)
+
+> Statusbar in Vs code indicating the current mode
+
+![Vim Normal mode](https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/vim-normal-mode.webp)
 
 ---
 
@@ -46,7 +54,9 @@ These key presses can be combined with numbers so
 
 Navigating around the file using these keys might feel weird at first, but once you get a hang of it you will be able to navigate much quicker.
 
-> TODO: A short video of navigating in vscode using vim
+> Navigating in Vscode using the vim key-bindings 
+
+https://github.com/ShUbHaM13M/vim-navigation-basics/blob/master/resources/navigating-editing-file-with-vim.webm
 
 #### Some other key bindings which makes navigating easier.
 
